@@ -24,7 +24,7 @@ ClashX是个适用于V2Ray的图形化客户端，内核Clash整合了V2Ray，�
 
 ## 配置订阅并开启ClashX
 
-* 进入您的[产品中心](https://bmxcloud.cc/clientarea.php)，点击对应套餐进入套餐详情，用户信息区域，订阅区域点击**Clash订阅链。**
+* 进入您的[产品中心](https://ivynet.nu/clientarea.php)，点击对应套餐进入套餐详情，用户信息区域，订阅区域点击**Clash订阅链。**
 
 ![](../../.gitbook/assets/image%20%2821%29.png)
 

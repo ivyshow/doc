@@ -27,7 +27,7 @@ Windows 10 第一次运行可能会提示被阻止，点击「更多信息」 - 
 
 ## 配置订阅
 
-1.进入您的[产品中心](https://bmxcloud.cc/clientarea.php)，点击对应套餐进入套餐详情，用户信息区域，订阅区域点击**通用订阅链。**
+1.进入您的[产品中心](https://ivynet.nu/clientarea.php)，点击对应套餐进入套餐详情，用户信息区域，订阅区域点击**通用订阅链。**
 
 ![](../../.gitbook/assets/image%20%2812%29.png)
 
