@@ -14,7 +14,7 @@ V2RayN 是一个适用于V2Ray-Core的开源视图化客户端，支持订阅。
 
 版本:2.20 \| 更新日期: 2018-12-27
 
-[本地下载](https://ivynet.nu/dl.php?type=d&id=11) \| [官](https://github.com/2dust/v2rayN/releases/download/2.20/v2rayN-Core.zip)[方下载](https://github.com/2dust/v2rayN/releases/download/2.20/v2rayN-Core.zip)
+[本地下载](https://xn--rut069fptl.club/dl.php?type=d&id=11) \| [官](https://github.com/2dust/v2rayN/releases/download/2.20/v2rayN-Core.zip)[方下载](https://github.com/2dust/v2rayN/releases/download/2.20/v2rayN-Core.zip)
 
 ## 运行
 
@@ -27,7 +27,7 @@ Windows 10 第一次运行可能会提示被阻止，点击「更多信息」 - 
 
 ## 配置订阅
 
-1.进入您的[产品中心](https://ivynet.nu/clientarea.php)，点击对应套餐进入套餐详情，用户信息区域，订阅区域点击**通用订阅链。**
+1.进入您的[产品中心](https://xn--rut069fptl.club/clientarea.php)，点击对应套餐进入套餐详情，用户信息区域，订阅区域点击**通用订阅链。**
 
 ![](../../.gitbook/assets/image%20%2812%29.png)
 
