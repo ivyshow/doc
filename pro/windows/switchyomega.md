@@ -14,7 +14,7 @@ SwitchyOmega是一款Chrome和Firefox 浏览器上的代理扩展程序，可以
 
 为方便使用，常青藤团队提供配置好的SwithyOmega配置文件，包含最新的分流规则以及自动切换模式，请下载对应的备份文件导入。
 
-[点击下载配置文件](https://ivynet.nu/dl.php?type=d&id=16)
+[点击下载配置文件](https://xn--rut069fptl.club/dl.php?type=d&id=16)
 
 导入方法：
 
