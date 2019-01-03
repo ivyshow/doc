@@ -17,7 +17,7 @@ description: 我们对本客户端暂不提供支持
 
 版本v1.0.9.7
 
-[点击下载](https://ivynet.nu/dl.php?type=d&id=17)
+[点击下载](https://xn--rut069fptl.club/dl.php?type=d&id=17)
 
 {% hint style="warning" %}
 如果你有使用 BitTorrent 协议的需求（各类 BT/PT 下载），则应当避免在使用这些软件时开启 SS-Tap，否则 BitTorrent 流量将有极大可能被 SS-Tap 路由通过斑马线网络，而斑马线的条款和条件中明确指出不允许在斑马线网络上使用BitTorrent 协议，否则将暂时或永久限制订阅或账户访问。
