@@ -16,11 +16,11 @@ Clash For Win是个适用于V2Ray的图形化客户端，内核Clash整合了V2R
 
 绿色解压版
 
-[本地下载](https://ivynet.nu/dl.php?type=d&id=10) \| [官方下载](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.5.13/Clash.for.Windows-0.5.13-win.zip)
+[本地下载](https://xn--rut069fptl.club/dl.php?type=d&id=10) \| [官方下载](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.5.13/Clash.for.Windows-0.5.13-win.zip)
 
 安装版
 
-[本地下载](https://ivynet.nu/dl.php?type=d&id=9) \| [官方下载](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.5.13/Clash.for.Windows.Setup.0.5.13.exe)
+[本地下载](https://xn--rut069fptl.club/dl.php?type=d&id=9) \| [官方下载](https://github.com/Fndroid/clash_for_windows_pkg/releases/download/0.5.13/Clash.for.Windows.Setup.0.5.13.exe)
 
 ## 运行
 
@@ -33,7 +33,7 @@ Windows 10 第一次运行可能会提示被阻止，点击「更多信息」 - 
 
 ## 配置订阅并开启Clash
 
-* 进入您的[产品中心](https://ivynet.nu/clientarea.php)，点击对应套餐进入套餐详情，用户信息区域，订阅区域点击**Clash订阅链。**
+* 进入您的[产品中心](https://xn--rut069fptl.club/clientarea.php)，点击对应套餐进入套餐详情，用户信息区域，订阅区域点击**Clash订阅链。**
 
 ![](../../.gitbook/assets/image%20%2813%29.png)
 
