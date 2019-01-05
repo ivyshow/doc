@@ -22,13 +22,13 @@ BifrostV为免费工具，但免费版会有少量广告，介意的用户可以
 
 * 手机浏览器打开 [常青藤用户中心](https://xn--rut069fptl.club/clientarea.php) ，点击已订阅套餐（左上三横线-我的服务，或直接在首页点击产品服务），在套餐详情中点击 **通用订阅链** ，订阅信息会自动复制进剪贴板
 
-![](../../.gitbook/assets/image%20%2824%29.png)
+![](../../.gitbook/assets/image%20%2825%29.png)
 
-![](../../.gitbook/assets/image%20%289%29.png)
+![](../../.gitbook/assets/image%20%2810%29.png)
 
-![](../../.gitbook/assets/image%20%2850%29.png)
+![](../../.gitbook/assets/image%20%2852%29.png)
 
-![](../../.gitbook/assets/image%20%2846%29.png)
+![](../../.gitbook/assets/image%20%2848%29.png)
 
 * 打开刚安装好的BifrostV，点击右上的**添加**，选择**从URL导入**，在**弹出窗口里**粘贴之前复制的**通用订阅链，确定保存**
 

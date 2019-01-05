@@ -35,22 +35,19 @@ Windows 10 第一次运行可能会提示被阻止，点击「更多信息」 - 
 
 * 进入您的[产品中心](https://xn--rut069fptl.club/clientarea.php)，点击对应套餐进入套餐详情，用户信息区域，订阅区域点击**Clash订阅链。**
 
-![](../../.gitbook/assets/image%20%2813%29.png)
+![](../../.gitbook/assets/image%20%2814%29.png)
 
-![](../../.gitbook/assets/image%20%2820%29.png)
+![](../../.gitbook/assets/image%20%2821%29.png)
 
 * 打开Clash For Windows，点击Profiles，在Download remote configuration file粘贴刚才复制的订阅链，然后点击Download
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](../../.gitbook/assets/image%20%286%29.png)
 
 * 下载完成后，上方会多出一个订阅卡片，点击该卡片启用该订阅
 
-![](../../.gitbook/assets/image%20%2819%29.png)
+![](../../.gitbook/assets/image%20%2820%29.png)
 
 * 然后点击Proxies，能看到所有节点已经导入，点击卡片选择节点
-
-
-
 * 点击Proxies，能看到所有节点已经导入，点击卡片选择节点，并且在模式中选择：
   * 全局模式：所有流量都经过加速服务器
   * 规则模式：只有海外流量会经过加速服务器，并且包含了部分去广告去隐私跟踪规则
@@ -64,7 +61,5 @@ Windows 10 第一次运行可能会提示被阻止，点击「更多信息」 - 
 
 * 最后点击General，可以看到目前配置信息，勾选System Proxy开启系统代理
 
-![](../../.gitbook/assets/image%20%2826%29.png)
-
-
+![](../../.gitbook/assets/image%20%2827%29.png)
 

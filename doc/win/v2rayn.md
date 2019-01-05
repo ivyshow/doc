@@ -29,9 +29,9 @@ Windows 10 第一次运行可能会提示被阻止，点击「更多信息」 - 
 
 1.进入您的[产品中心](https://xn--rut069fptl.club/clientarea.php)，点击对应套餐进入套餐详情，用户信息区域，订阅区域点击**通用订阅链。**
 
-![](../../.gitbook/assets/image%20%2812%29.png)
+![](../../.gitbook/assets/image%20%2813%29.png)
 
-![](../../.gitbook/assets/image%20%2854%29.png)
+![](../../.gitbook/assets/image%20%2856%29.png)
 
 2.打开V2RayN，点击**订阅**-&gt;**订阅设置，**在跳出的窗口里，备注**常青藤**，**地址URL**位置粘贴刚才复制的订阅链，确定退出订阅设置。
 
@@ -60,19 +60,16 @@ Windows 10 第一次运行可能会提示被阻止，点击「更多信息」 - 
 ## 设置系统代理，选择服务器
 
 * 右键点击右下角V2RayN小图标，启动HTTP代理，并且在模式中选择以下：
-
   * 全局模式：所有的网站/程序HTTP流量都将通过V2RayN
   * PAC模式：根据规则匹配，只有PAC列表内网站会通过V2RayN
   * 直连模式：仅开启HTTP代理，不设置系统代理，您可以通过其他工具，如SwithyOmega浏览器插件，来配置流量转发
   * 仅开启PAC：不推荐
 
-![](../../.gitbook/assets/image%20%2816%29.png)
+![](../../.gitbook/assets/image%20%2817%29.png)
 
-![](../../.gitbook/assets/image%20%2842%29.png)
+![](../../.gitbook/assets/image%20%2844%29.png)
 
 * 在服务器选项，可以选择任意服务器，选择后自动切换该服务器
 
-![](../../.gitbook/assets/image%20%284%29.png)
-
-
+![](../../.gitbook/assets/image%20%285%29.png)
 

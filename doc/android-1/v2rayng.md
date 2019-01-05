@@ -18,13 +18,13 @@ V2RayNG是一款适用于常青藤的开源Android客户端，支持订阅功能
 
 * 手机浏览器打开 [常青藤用户中心](https://xn--rut069fptl.club/clientarea.php) ，点击已订阅套餐（左上三横线-我的服务，或直接在首页点击产品服务），在套餐详情中点击 **通用订阅链** ，订阅信息会自动复制进剪贴板
 
-![](../../.gitbook/assets/image%20%2824%29.png)
+![](../../.gitbook/assets/image%20%2825%29.png)
 
-![](../../.gitbook/assets/image%20%289%29.png)
+![](../../.gitbook/assets/image%20%2810%29.png)
 
-![](../../.gitbook/assets/image%20%2850%29.png)
+![](../../.gitbook/assets/image%20%2852%29.png)
 
-![](../../.gitbook/assets/image%20%2846%29.png)
+![](../../.gitbook/assets/image%20%2848%29.png)
 
 * 打开刚安装好的V2RayNG，点击**左上三横线** 小图标 ，在弹出的窗口中，选择订阅设置
 
@@ -32,7 +32,7 @@ V2RayNG是一款适用于常青藤的开源Android客户端，支持订阅功能
 
 * 进入订阅设置后，点击**右上+号**，在弹出窗口填入对应信息，保存
 
-![](../../.gitbook/assets/image%20%2823%29.png)
+![](../../.gitbook/assets/image%20%2824%29.png)
 
 * 保存后返回V2RayNG主界面，点击**右上三点**，选择更新订阅，成功后即可导入订阅套餐对应的所有节点
 

@@ -42,7 +42,7 @@ V2RayX是开源工具，但未经Apple认证，所以会跳出安全提示
   * Websocket选项卡：path和headers按网站提供参数填写。值得注意的是，Mac默认打开了标点符号自动替换，输入后会替换掉双引号，导致配置不正确，保存时一定要注意是否被替换
   * TLS选项卡：勾选USE TLS
 
-![](../../.gitbook/assets/image%20%2815%29.png)
+![](../../.gitbook/assets/image%20%2816%29.png)
 
 ![](../../.gitbook/assets/image-36.png)
 

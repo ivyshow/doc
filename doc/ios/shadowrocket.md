@@ -29,13 +29,13 @@ ShadowRocket俗称小火箭，是一款iOS上非常受欢迎的代理工具
 
 * 手机浏览器打开 [常青藤用户中心](https://xn--rut069fptl.club/clientarea.php) ，点击已订阅套餐（左上三横线-我的服务，或直接在首页点击产品服务），在套餐详情中点击 **通用订阅链** ，订阅信息会自动复制进剪贴板
 
-![](../../.gitbook/assets/image%20%2824%29.png)
+![](../../.gitbook/assets/image%20%2825%29.png)
 
-![](../../.gitbook/assets/image%20%289%29.png)
+![](../../.gitbook/assets/image%20%2810%29.png)
 
-![](../../.gitbook/assets/image%20%2850%29.png)
+![](../../.gitbook/assets/image%20%2852%29.png)
 
-![](../../.gitbook/assets/image%20%2846%29.png)
+![](../../.gitbook/assets/image%20%2848%29.png)
 
 * 打开Shadowrocket，点击**右上+号**，弹出窗口中点击**类型，**并将类型更改为**Subscribe**
 
@@ -47,11 +47,11 @@ ShadowRocket俗称小火箭，是一款iOS上非常受欢迎的代理工具
 
 * 将**通用订阅链**粘贴至**URL位置**，点击**完成**即可更新订阅
 
-![](../../.gitbook/assets/image%20%2844%29.png)
+![](../../.gitbook/assets/image%20%2846%29.png)
 
 * 如更新地址失败，可在主界面主订阅上向左滑动，点击更新
 
-![](../../.gitbook/assets/image%20%2855%29.png)
+![](../../.gitbook/assets/image%20%2857%29.png)
 
 ![](../../.gitbook/assets/image-13.png)
 
