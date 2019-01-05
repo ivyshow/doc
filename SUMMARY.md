@@ -13,7 +13,7 @@
   * [iOS](doc/ios/README.md)
     * [ShadowRocket（推荐）](doc/ios/shadowrocket.md)
     * [Quantumult（推荐）](doc/ios/quantumult.md)
-    * [Kitsunebi](doc/ios/kitsunebi.md)
+    * [Kitsunebi（提供免费试用）](doc/ios/kitsunebi.md)
   * [路由器](doc/router/README.md)
     * [梅林固件](doc/router/merlin.md)
     * [Padavan](doc/router/padavan.md)
