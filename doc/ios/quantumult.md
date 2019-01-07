@@ -7,13 +7,10 @@ description: 我们对本客户端提供「优先」支持
 * `系统要求：iOS 9 及以上`
 * `设备要求：iPhone / iPad`
 
-{% hint style="danger" %}
-此应用已在国区下架，请自行准备非国区 Apple ID 下载
-{% endhint %}
 
-{% hint style="success" %}
-我们为绑定非国区支付方式困难的订阅客户准备了下载帐户，如需要请在网站内开服务单索取
-{% endhint %}
+
+* **`此应用已在国区下架，请使用非国区 Apple ID 下载。`**
+* **`我们为绑定非国区支付方式困难的订阅客户准备了下载帐户，如需要请在网站内开服务单索取`**
 
 ## 介绍   <a id="jie-shao"></a>
 
@@ -62,11 +59,7 @@ Quantumult是目前iOS上支持最好的客户端，支持订阅功能，但设�
 ## 可选配置 - 规则订阅
 
 * Quantumult内置了一个分流规则，大部分情况效果不错，但是还是会有规则匹配不正确的情况。用户可以选择自定义更为完善的规则。
-
-{% hint style="info" %}
-规则仅在**运行模式 - 自动分流**模式下生效
-{% endhint %}
-
+* 规则仅在**运行模式 - 自动分流**模式下生效
 * 推荐规则：[lhie1规则](https://github.com/lhie1/Rules)。目前维护最为完善的规则，包含了分流策略，去广告，拦截隐私跟踪等功能
 * 订阅地址：
   * 分流规则：[https://raw.githubusercontent.com/lhie1/Rules/master/Quantumult/Quantumult.conf](https://raw.githubusercontent.com/lhie1/Rules/master/Quantumult/Quantumult.conf)

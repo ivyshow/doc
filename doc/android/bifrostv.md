@@ -14,9 +14,7 @@ BifrostV是一款适用于常青藤的Android客户端，不支持订阅功能�
 
 [本地下载](https://xn--rut069fptl.club/dl.php?type=d&id=15) \| [PlayStore下载](https://play.google.com/store/apps/details?id=com.github.dawndiy.bifrostv)
 
-{% hint style="warning" %}
-BifrostV为免费工具，但免费版会有少量广告，介意的用户可以在设置中付费关掉广告
-{% endhint %}
+**BifrostV为免费工具，但免费版会有少量广告，介意的用户可以在设置中付费关掉广告**
 
 ## 使用
 

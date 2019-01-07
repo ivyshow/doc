@@ -1,21 +1,12 @@
-# Kitsunebi（提供免费试用）
+# Kitsunebi
 
 * `系统要求：iOS 9 及以上`
 * `设备要求：iPhone / iPad`
 
-{% hint style="danger" %}
-此应用已在国区下架，请自行准备非国区 Apple ID 下载
-{% endhint %}
 
-{% hint style="success" %}
-我们为绑定非国区支付方式困难的订阅客户准备了下载帐户，如需要请在网站内开服务单索取
-{% endhint %}
 
-{% hint style="success" %}
-试用客户推荐使用Kitsunebi的Testflight测试版来测试节点。（不保证一直可用）
-
-[Kitsunebi 最新TF申请地址](https://docs.google.com/forms/d/1-1ZuYA1qkyDfAn6qzUzNEV3YVZbgr__7b6aFBiKeNHc/closedform) \| [Kitsunebi TF 安装版地址](https://testflight.apple.com/join/hjTR4mho)​
-{% endhint %}
+* **`此应用已在国区下架，请使用非国区 Apple ID 下载。`**
+* **`我们为绑定非国区支付方式困难的订阅客户准备了下载帐户，如需要请在网站内开服务单索取`**
 
 ## 介绍   <a id="&#x83B7;&#x53D6;"></a>
 

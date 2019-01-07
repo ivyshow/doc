@@ -26,10 +26,7 @@ Clash For Win是个适用于V2Ray的图形化客户端，内核Clash整合了V2R
 
 * 将您下载的压缩包解压到任意目录，建议放在非系统盘的目录里，避免带来权限问题。
 * 运行其中的 `Clash for Windows.exe`
-
-{% hint style="warning" %}
-Windows 10 第一次运行可能会提示被阻止，点击「更多信息」 - 「仍要运行」
-{% endhint %}
+* Windows 10 第一次运行可能会提示被阻止，点击「更多信息」 - 「仍要运行」
 
 ## 配置订阅并开启Clash
 

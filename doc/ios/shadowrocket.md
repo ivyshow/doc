@@ -7,21 +7,16 @@ description: 我们对本客户端提供「优先」支持
 * `系统要求：iOS 9 及以上`
 * `设备要求：iPhone / iPad`
 
-{% hint style="danger" %}
-此应用已在国区下架，请使用非国区 Apple ID 下载。
-{% endhint %}
 
-{% hint style="success" %}
-我们为绑定非国区支付方式困难的订阅客户准备了下载帐户，如需要请在网站内开服务单索取
-{% endhint %}
+
+* **`此应用已在国区下架，请使用非国区 Apple ID 下载。`**
+* **`我们为绑定非国区支付方式困难的订阅客户准备了下载帐户，如需要请在网站内开服务单索取`**
 
 ## 介绍
 
 ShadowRocket俗称小火箭，是一款iOS上非常受欢迎的代理工具
 
-{% hint style="danger" %}
-中国区有同名山寨软件，请认准开发者Guangming Li
-{% endhint %}
+* 中国区有同名山寨软件，请认准开发者Guangming Li
 
 ![](../../.gitbook/assets/image-65.png)
 
@@ -68,10 +63,7 @@ ShadowRocket俗称小火箭，是一款iOS上非常受欢迎的代理工具
 
 Shadowrocket内置了一个分流规则，大部分情况效果不错，但是还是会有规则匹配不正确的情况。在选项卡配置里，用户可以选择自定义更为完善的规则。
 
-{% hint style="info" %}
-规则仅在**全局路由 - 配置**模式下生效
-{% endhint %}
-
+* 规则仅在**全局路由 - 配置**模式下生效
 * 推荐规则：[lhie1规则](https://raw.githubusercontent.com/lhie1/Rules/master/Shadowrocket.conf)。目前维护最为完善的规则，包含了分流策略，去广告，拦截隐私跟踪等功能
 * 订阅地址：[https://raw.githubusercontent.com/lhie1/Rules/master/Shadowrocket.conf](https://raw.githubusercontent.com/lhie1/Rules/master/Shadowrocket.conf)
 * 打开shadowrocket**配置**选项卡，点击**添加配置**，跳出窗口里粘贴上面的**订阅地址**后点击下载 

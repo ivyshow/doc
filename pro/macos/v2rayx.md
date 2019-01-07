@@ -15,10 +15,7 @@ V2RayX 是一个适用于V2Ray-Core的开源视图化Mac客户端。支持V2Ray�
 
 ## 使用
 
-{% hint style="info" %}
-V2RayX是开源工具，但未经Apple认证，所以会跳出安全提示
-{% endhint %}
-
+* V2RayX是开源工具，但未经Apple认证，所以会跳出安全提示
 * 解决办法：
   * 左上苹果图标，系统偏好设置，安全性与隐私
   * 对V2RayX点击仍要打开
@@ -50,7 +47,7 @@ V2RayX是开源工具，但未经Apple认证，所以会跳出安全提示
 
 ![](../../.gitbook/assets/image-77.png)
 
-{% hint style="info" %}
-由于V2RayX面向的是希望自定义的客户，对系统一般有基本了解，这里不介绍详细功能
-{% endhint %}
+* 由于V2RayX面向的是希望自定义的客户，对系统一般有基本了解，这里不介绍详细功能
+
+
 
