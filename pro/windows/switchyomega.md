@@ -43,7 +43,7 @@ SwitchyOmega是一款Chrome和Firefox 浏览器上的代理扩展程序，可以
 
 打开网站，并未激活自动规则走代理，但是出现1个资源未加载并网页打开速度非常缓慢
 
-![](../../.gitbook/assets/image%20%2853%29.png)
+![](../../.gitbook/assets/image%20%2854%29.png)
 
 这时候点击未加载位置，跳出界面将无法加载的域名选入代理
 
@@ -51,7 +51,7 @@ SwitchyOmega是一款Chrome和Firefox 浏览器上的代理扩展程序，可以
 
 同时由于网站打开缓慢，点击图1域名位置，将该域名也加入代理列表
 
-![](../../.gitbook/assets/image%20%2842%29.png)
+![](../../.gitbook/assets/image%20%2843%29.png)
 
 这时候重新打开网站，能发现已激活代理，加载速度飞快并且无法加载的资源已消失
 

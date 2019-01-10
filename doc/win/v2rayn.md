@@ -28,7 +28,7 @@ V2RayN 是一个适用于V2Ray-Core的开源视图化客户端，支持订阅。
 
 ![](../../.gitbook/assets/image%20%2813%29.png)
 
-![](../../.gitbook/assets/image%20%2856%29.png)
+![](../../.gitbook/assets/image%20%2857%29.png)
 
 2.打开V2RayN，点击**订阅**-&gt;**订阅设置，**在跳出的窗口里，备注**常青藤**，**地址URL**位置粘贴刚才复制的订阅链，确定退出订阅设置。
 
@@ -64,7 +64,7 @@ V2RayN 是一个适用于V2Ray-Core的开源视图化客户端，支持订阅。
 
 ![](../../.gitbook/assets/image%20%2817%29.png)
 
-![](../../.gitbook/assets/image%20%2844%29.png)
+![](../../.gitbook/assets/image%20%2845%29.png)
 
 * 在服务器选项，可以选择任意服务器，选择后自动切换该服务器
 

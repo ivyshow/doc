@@ -20,9 +20,9 @@ Kitsunebi是专门为V2Ray设计的代理工具，目前在iOS上对V2Ray协议�
 
 ![](../../.gitbook/assets/image%20%2810%29.png)
 
-![](../../.gitbook/assets/image%20%2852%29.png)
+![](../../.gitbook/assets/image%20%2853%29.png)
 
-![](../../.gitbook/assets/image%20%2848%29.png)
+![](../../.gitbook/assets/image%20%2849%29.png)
 
 * 首次打开Kitsunebi，系统会提示配置VPN，允许后需要使用指纹/Face ID/密码 确认
 
@@ -44,9 +44,9 @@ Kitsunebi是专门为V2Ray设计的代理工具，目前在iOS上对V2Ray协议�
 
 * 点击从URL更新，即可获取套餐对应的所有节点
 
-![](../../.gitbook/assets/image%20%2850%29.png)
+![](../../.gitbook/assets/image%20%2851%29.png)
 
-![](../../.gitbook/assets/image%20%2845%29.png)
+![](../../.gitbook/assets/image%20%2846%29.png)
 
 * 选中需要节点后切换到**状态**选项卡，打开开关即可开启代理
 

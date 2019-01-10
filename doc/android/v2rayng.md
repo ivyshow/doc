@@ -22,9 +22,9 @@ V2RayNG是一款适用于常青藤的开源Android客户端，支持订阅功能
 
 ![](../../.gitbook/assets/image%20%2810%29.png)
 
-![](../../.gitbook/assets/image%20%2852%29.png)
+![](../../.gitbook/assets/image%20%2853%29.png)
 
-![](../../.gitbook/assets/image%20%2848%29.png)
+![](../../.gitbook/assets/image%20%2849%29.png)
 
 * 打开刚安装好的V2RayNG，点击**左上三横线** 小图标 ，在弹出的窗口中，选择订阅设置
 

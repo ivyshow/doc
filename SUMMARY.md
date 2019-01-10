@@ -25,8 +25,9 @@
   * [MacOS](pro/macos/README.md)
     * [V2RayX](pro/macos/v2rayx.md)
 * [通用](ivy/README.md)
-  * [用户服务条款](ivy/tos.md)
+  * [关于线路的选择](ivy/guan-yu-xian-lu-de-xuan-ze.md)
   * [常见问题](ivy/qa.md)
   * [媒体解锁服务一览](ivy/unlock.md)
   * [分流规则说明](ivy/filter.md)
+  * [用户服务条款](ivy/tos.md)
 
