@@ -10,7 +10,7 @@ V2RayNG是一款适用于常青藤的开源Android客户端，支持订阅功能
 
 ## 下载安装
 
-版本:0.6.7 \| 更新日期: 2018-12-25
+版本:0.6.12 \| 更新日期: 2019-2-15
 
 [本地下载](https://ivynet.fun/dl.php?type=d&id=14) \| [官方下载](https://github.com/2dust/v2rayNG/releases/download/0.6.7/app-universal-release.apk) \| [PlayStore下载](https://play.google.com/store/apps/details?id=com.v2ray.ang)
 

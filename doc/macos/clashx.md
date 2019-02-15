@@ -13,7 +13,7 @@ ClashX是个适用于V2Ray的图形化客户端，内核Clash整合了V2Ray，�
 
 ## 下载
 
-版本:v1.8.1 \| 更新日期: 2018-12-23
+版本:v1.9.2 \| 更新日期: 2019-2-15
 
 [本地下载](https://ivynet.fun/dl.php?type=d&id=13) \| [官方下载](https://github.com/yichengchen/clashX/releases/download/1.8.1/ClashX.dmg)
 
@@ -71,6 +71,4 @@ mkdir .config/clash
 ![](../../.gitbook/assets/image%20%2832%29.png)
 
 * 重启ClashX即可解决此问题
-
-
 

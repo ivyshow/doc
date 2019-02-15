@@ -12,7 +12,7 @@ V2RayN 是一个适用于V2Ray-Core的开源视图化客户端，支持订阅。
 
 ## 下载
 
-版本:2.20 \| 更新日期: 2018-12-27
+版本:2.21 \| 更新日期: 2019-1-4
 
 [本地下载](https://ivynet.fun/dl.php?type=d&id=11) \| [官](https://github.com/2dust/v2rayN/releases/download/2.20/v2rayN-Core.zip)[方下载](https://github.com/2dust/v2rayN/releases/download/2.20/v2rayN-Core.zip)
 
