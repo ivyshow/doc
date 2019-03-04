@@ -30,15 +30,15 @@ description: 我们对本客户端暂不提供支持
 
 * 打开 SS-Tap，点+号后添加一个Socks5服务器
 
-![](../../.gitbook/assets/image%20%2856%29.png)
+![](../../.gitbook/assets/image%20%2868%29.png)
 
 * 跳出窗口内填入必要信息，端口填入代理工具监听的内网Socks5端口。V2RayN默认为1080，Clash默认为7891。附加路由填入想要用于加速的节点域名，保存返回主界面。
 
-![](../../.gitbook/assets/image%20%2850%29.png)
+![](../../.gitbook/assets/image%20%2861%29.png)
 
 * 启动和SSTAP填写的域名保持一致的代理工具节点，然后点击雷电小图标测试连接
 
-![](../../.gitbook/assets/image%20%2811%29.png)
+![](../../.gitbook/assets/image%20%2814%29.png)
 
 * 测试通过后，击连接即可加速您的网络。
 * 加速游戏时，请讲V2RayN或Clash调整至全局模式

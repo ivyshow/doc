@@ -1,6 +1,8 @@
 # Table of contents
 
 * [常青藤用户指南](README.md)
+* [订阅及续费](ding-yue-ji-xu-fei/README.md)
+  * [续费流程](ding-yue-ji-xu-fei/xu-fei-liu-cheng.md)
 * [使用教程与下载](basic/README.md)
   * [Windows](basic/win/README.md)
     * [Clash For Win（推荐）](basic/win/clash.md)

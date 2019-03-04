@@ -29,7 +29,7 @@ SwitchyOmega是一款Chrome和Firefox 浏览器上的代理扩展程序，可以
 * 选中刚才下载的配置文件，确定。
 * 关闭SwitchyOmega配置窗口，重新点击浏览器工具栏SwitchyOmega图标，会发现配置已正确导入
 
-![](../../.gitbook/assets/image%20%2819%29.png)
+![](../../.gitbook/assets/image%20%2822%29.png)
 
 * 模式说明
   * 直接连接：忽略系统代理，流量走默认通道
@@ -43,17 +43,17 @@ SwitchyOmega是一款Chrome和Firefox 浏览器上的代理扩展程序，可以
 
 打开网站，并未激活自动规则走代理，但是出现1个资源未加载并网页打开速度非常缓慢
 
-![](../../.gitbook/assets/image%20%2854%29.png)
+![](../../.gitbook/assets/image%20%2865%29.png)
 
 这时候点击未加载位置，跳出界面将无法加载的域名选入代理
 
-![](../../.gitbook/assets/image%20%2830%29.png)
+![](../../.gitbook/assets/image%20%2836%29.png)
 
 同时由于网站打开缓慢，点击图1域名位置，将该域名也加入代理列表
 
-![](../../.gitbook/assets/image%20%2843%29.png)
+![](../../.gitbook/assets/image%20%2852%29.png)
 
 这时候重新打开网站，能发现已激活代理，加载速度飞快并且无法加载的资源已消失
 
-![](../../.gitbook/assets/image%20%2837%29.png)
+![](../../.gitbook/assets/image%20%2846%29.png)
 
