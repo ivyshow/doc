@@ -4,7 +4,7 @@ description: 我们对本客户端提供「优先」支持
 
 # Clash For Win（推荐）
 
-* `系统要求：Windows XP 及以上（64-bit）`
+* `系统要求：Windows 7 及以上（64-bit）`
 
 ## 介绍
 
