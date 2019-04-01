@@ -13,7 +13,7 @@ V2RayX 是一个适用于V2Ray-Core的开源视图化Mac客户端。支持V2Ray�
 
 已支持订阅
 
-### [本地下载](https://ivynet.fun/dl.php?type=d&id=12) \| 国内分流下载 \| [百度云下载：提取码5dw6](https://pan.baidu.com/s/1Xa86GBKfe4wJN2aau6p35w) 
+### [本地下载](https://ivynet.fun/dl.php?type=d&id=12) \| [国内分流下载](http://117.174.59.69:8081/ivy/downloads/V2RayX.app.zip) \| [百度云下载：提取码5dw6](https://pan.baidu.com/s/1Xa86GBKfe4wJN2aau6p35w) 
 
 ## 使用
 
