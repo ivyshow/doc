@@ -17,11 +17,10 @@
   * [ClashX - 推荐](macos/clashx.md)
 * Android
   * [V2RayNG - 推荐](android/v2rayng.md)
-  * [BifrostV](android/bifrostv.md)
+  * [BifrostV](android/bifrostv.md) - 三星用户推荐
 * iOS
   * [ShadowRocket - 推荐](ios/shadowrocket.md)
   * [Quantumult - 推荐](ios/quantumult.md)
-  * [Kitsunebi](ios/kitsunebi.md)
 * 路由器
   * [梅林固件](router/merlin.md)
 
