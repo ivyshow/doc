@@ -12,7 +12,7 @@
 
 ### 八折优惠码：IMISSYOU    
 
-### 4月14日前有效，任意套餐及时长适用含续费
+### 4月14日前有效，任意套餐及时长适用，含续费
 
 ### [续费传送门](https://ivyinstitude.icu/index.php?m=renewal)
 
