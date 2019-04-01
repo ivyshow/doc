@@ -13,9 +13,9 @@ ClashX是个适用于V2Ray的图形化客户端，内核Clash整合了V2Ray，�
 
 ## 下载
 
-版本:v1.9.2 \| 更新日期: 2019-2-15
+版本:v [1.9.8.1](https://github.com/yichengchen/clashX/releases/tag/1.9.8.1) \| 更新日期: 2019-4-1
 
-### [本地下载](https://ivynet.fun/dl.php?type=d&id=13) 
+### [本地下载](https://ivynet.fun/dl.php?type=d&id=13) \| [百度云下载：提取码5dw6](https://pan.baidu.com/s/1Xa86GBKfe4wJN2aau6p35w) 
 
 ## 运行
 

@@ -12,9 +12,9 @@ V2RayN 是一个适用于V2Ray-Core的开源视图化客户端，支持订阅。
 
 ## 下载
 
-版本:2.21 \| 更新日期: 2019-1-4
+版本:2.22+4.18内核 \| 更新日期: 2019-4-1
 
-### [本地下载](https://ivynet.fun/dl.php?type=d&id=11)
+### [本地下载](https://ivynet.fun/dl.php?type=d&id=11) \| [百度云下载：提取码5dw6](https://pan.baidu.com/s/1Xa86GBKfe4wJN2aau6p35w)
 
 ## 重要 - 系统时间
 

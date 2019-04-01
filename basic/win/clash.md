@@ -12,15 +12,15 @@ Clash For Win是个适用于V2Ray的图形化客户端，内核Clash整合了V2R
 
 ## 下载
 
-版本:v0.5.22 \| 更新日期: 2019-2-15
+版本:v0.5.31 \| 更新日期: 2019-4-1
 
 绿色解压版
 
-### [本地下载](https://ivynet.fun/dl.php?type=d&id=10) 
+### [本地下载](https://ivynet.fun/dl.php?type=d&id=10) \| [百度云下载：提取码5dw6](https://pan.baidu.com/s/1Xa86GBKfe4wJN2aau6p35w)
 
 安装版
 
-### [本地下载](https://ivynet.fun/dl.php?type=d&id=9) 
+### [本地下载](https://ivynet.fun/dl.php?type=d&id=9) \| [百度云下载：提取码5dw6](https://pan.baidu.com/s/1Xa86GBKfe4wJN2aau6p35w)
 
 ## 重要 - 系统时间
 

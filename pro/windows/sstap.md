@@ -17,7 +17,7 @@ description: 我们对本客户端暂不提供支持
 
 版本v1.0.9.7
 
-[点击下载](https://ivynet.fun/dl.php?type=d&id=17)
+### [点击下载](https://ivynet.fun/dl.php?type=d&id=17) \| [百度云下载：提取码5dw6](https://pan.baidu.com/s/1Xa86GBKfe4wJN2aau6p35w)
 
 * 如果你有使用 BitTorrent 协议的需求（各类 BT/PT 下载），则应当避免在使用这些软件时开启 SS-Tap，否则 BitTorrent 流量将有极大可能被 SS-Tap 路由通过斑马线网络，而斑马线的条款和条件中明确指出不允许在斑马线网络上使用BitTorrent 协议，否则将暂时或永久限制订阅或账户访问。
 * 作者 Taro 宣称 SS-Tap 的代码没有备份，而储存代码的硬盘因为控制片损坏，永久丢失了这些代码，并决定放弃 SS-Tap 的开发，因此，SS-Tap 将可能在未来的系统更新中出现意料之外的问题或无法使用。

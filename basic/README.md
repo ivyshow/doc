@@ -4,7 +4,7 @@
 
 ### 客户端下载地址
 
-* 客户端百度云下载地址：[https://pan.baidu.com/s/1Br7RZpdFkTFZrNEMmht1Fw](https://pan.baidu.com/s/1Br7RZpdFkTFZrNEMmht1Fw)，提取码b3yv
+* 客户端百度云下载地址：[https://pan.baidu.com/s/1Xa86GBKfe4wJN2aau6p35w](https://pan.baidu.com/s/1Xa86GBKfe4wJN2aau6p35w) ，提取码5dw6
 * iOS客户端因系统限制，我们仅能提供在线安装包，第一次使用需要输入AppStore密码，请联系人工客服获取
 
   * [ShadowRocket在线安装](https://gogoyun.xyz/shadowrocket/index.html)
